@@ -6,6 +6,8 @@ public class Program2 {
 		
 		
 		System.out.println("This is second program");
+		
+		System.out.println("This is new  second program");
 
 	}
 
